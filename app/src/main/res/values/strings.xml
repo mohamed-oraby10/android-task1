@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Meme App</string>
+    <string name="first_meme">first meme</string>
+    <string name="second_meme">second meme</string>
+    <string name="my_name">My name is Mohamed Oraby</string>
+    <string name="my_age">My age = 21</string>
+    <string name="my_job">Android developer</string>
+    <string name="my_collage">Fayoum university</string>
+
+</resources>
